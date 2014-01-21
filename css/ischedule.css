@@ -1,0 +1,5 @@
+.sign_up_error {font-size:10px;color:red;margin-left:10px;text-align:left;display:none;}
+.modal {font-size:12px;display:none;}
+#form_notification{font-size:10px;color:red;display:none;font-weight:bold;}
+#notification{font-size:14px;color:red;display:none;font-weight:bold;}
+.form_field_header{font-weight:bold;}
